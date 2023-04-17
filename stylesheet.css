@@ -1,0 +1,113 @@
+.flex-container {
+    display: flex;
+}
+
+
+.flex-container div {
+    background: #1f2937;
+    height: 80px;
+    flex: 1;
+    justify-content: flex-end;
+    color: rgba(217, 231, 214, 0.292);
+}
+
+.img12hoep {
+    width: 200px;
+    padding-top: 10px;
+    padding-left: 150px;
+}
+
+.three {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+.hero {
+    font-size: 24px;
+    color: aliceblue;
+    padding-top: 100px;
+    background-color: #1f2937;
+
+}
+
+
+.hero {
+    display: flex;
+
+}
+
+.hero div {
+    background: #1f2937;
+    height: 500px;
+    flex: 1;
+    justify-content: flex-end;
+    color: rgba(217, 231, 214, 0.292);
+}
+
+
+.heroimg {
+
+    width: 250px;
+    padding-top: 50px;
+}
+
+.herotext {
+    font-size: 48px;
+}
+
+
+
+.sponsors {
+    display: flex;
+}
+
+.sponsors div {
+    flex: 1;
+    width: 50px;
+}
+
+.vendor  {
+    width: 150px;
+}
+
+
+.quote  {
+    display: flex;
+    background-color: #e5e7eb;
+    padding-top: 100px;
+    
+}
+
+p.p  {
+    font-size: 36px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+}
+/*This is all good until here*/
+
+.bo {
+    display: flex;
+}
+
+.bo div {
+    flex: 1;
+    
+}
+div.bottom {
+    width: 450px;
+    height: 250px;
+    background-color: #328286;
+    border: blue;
+    padding: 50px;
+}
+
+.buttomb {
+    position: absolute;
+    border-left: 50px;
+}
+
+.footer {
+    margin-left: 40%;
+}
